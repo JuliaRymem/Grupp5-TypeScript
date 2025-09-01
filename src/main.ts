@@ -2,7 +2,7 @@
 // import typescriptLogo from './typescript.svg'
 // import viteLogo from '/vite.svg'
 import type { Contact } from "./contactBook"
-import { contactBook, } from "./contactBook"
+//import { contactBook, } from "./contactBook"
 
 const contactBook: Contact[] = []; 
 
