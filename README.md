@@ -212,10 +212,10 @@ Vi har gjort ett enkelt kontaktboks-program. Programmet låter dig visa en lista
 
 # D) Övningsuppgift
 
-Ändra/modifiera koden så att du byter ut filtrering (dropdown-menyn) mot en sökfunktion.
-Användaren ska kunna skriva in ett sökord
+Ändra eller modifiera koden så att ni byter ut filtrering (dropdown-menyn) mot en sökfunktion.
+Användaren ska kunna skriva in ett sökord och listan ska visa de kontakter som matchar.
 
 ### Ledtrådar:
 
 - Skapa ett input-fält istället för select-menyn.
--
+- Ni kan behöva omvandla number till string vid ett tillfälle
