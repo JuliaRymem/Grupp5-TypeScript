@@ -203,3 +203,14 @@ Vi har gjort ett enkelt kontaktboks-program. Programmet låter dig visa en lista
 
    - Se alla kontakter listade på sidan.
    - Välja i rullgardinsmenyn om du vill se alla kontakter, bara privata kontakter eller bara företag.
+
+
+# D) Övningsuppgift
+
+Ändra/modifiera koden så att du byter ut filtrering (dropdown-menyn) mot en sökfunktion.
+Användaren ska kunna skriva in ett sökord
+
+### Ledtrådar:
+
+- Skapa ett input-fält istället för select-menyn.
+-
