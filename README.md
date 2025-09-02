@@ -163,3 +163,43 @@ console.table(companies);
 ```
 
 ---
+
+---
+
+
+
+# C) Kontaktbok i TypeScript
+
+Vi har gjort ett enkelt kontaktboks-program. Programmet låter dig visa en lista med kontakter och filtrera dem efter typer - privat eller företag.
+
+
+## Hur vi använder interfaces och types i uppgiften
+
+- Interface (Contact) används för att bestämma vilka fält en kontakt måste ha - exempelvis address och phone.
+- Type (ContactType) används för att begränsa *type* till endast "Private" eller "Company"
+- På så sätt får vi tydliga regler och TypeScript säger till om vi glömmer något eller skriver fel.
+
+
+## Instruktioner för att köra programmet
+
+1. Klona ner projektet från GitHub:
+
+   ```bash
+   git clone https://github.com/JuliaRymem/Grupp5-TypeScript.git
+   cd Grupp5-TypeScript
+   ```
+2. Installera beroenden:
+
+   ```bash
+   npm install
+   ```
+3. Starta utvecklingsservern:
+
+   ```bash
+   npm run dev
+   ```
+4. Öppna länken som visas i terminalen (localhost)
+5. Nu ska du kunna:
+
+   - Se alla kontakter listade på sidan.
+   - Välja i rullgardinsmenyn om du vill se alla kontakter, bara privata kontakter eller bara företag.
