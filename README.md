@@ -9,7 +9,7 @@ fel redan innan vi kör programmet.
 ## Vad är ett interface?
 
 Ett interface är som en ritning för ett objekt.
-Det säger vilka fält objektet måste ha, och vilken typ varje fält ska ha.
+Det säger vilka fält objektet måste ha och vilken typ varje fält ska ha.
 
 ###### Exempel: Här vill vi vara säkra på att alla personer i vår kod alltid har samma form, så att vi inte glömmer viktiga uppgifter som *age*.
 
